@@ -1,3 +1,5 @@
+#trabalho individual da cadeira de Algoritmos Avançados de Bioinformática
+
 from MyGraph import MyGraph
 import operator
 import matplotlib.pyplot as plt
